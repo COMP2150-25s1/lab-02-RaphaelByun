@@ -13,7 +13,7 @@ Today's task uses (but is not limited to):
 There is no direct assignment deliverable today. However, your iteration on your scene from last week will help you get a better grip on how to think about designing your level for particular experiences, and expose you to the process of playtesting. These skills will be necessary for the Level Design Task.
 
 
-## Internal playtest/Quality Assurance (30 min)
+## Quality Assurance (30 min)
 ### Retrieving your project from last week
 Instead of creating a new scene today, you'll be iterating on what you built last week. If you have not created any sort of level from last week, spend some time doing so now. You may even want to revisit last week's sheet for some ideas.
 
@@ -29,16 +29,22 @@ You will want to be taking notes throughout this lesson. We highly recommend you
 
 Whatever you do, the important thing is that you are recording your design process, as this will be a core skill for you as a designer.
 
-### Internal playtest/Quality Assurance
-Let's begin by playing our level ourselves. In this initial play through, we're looking for any "bugs" in the level design: are there jumps that can't be made? Are there any opportunties for the player to get stuck and unable to progress? Having had a week-or-so from when you last played with this project, you should now be able to come at it with fresh eyes.
+### Internal QA
+Let's begin by playing our level ourselves. In this initial play through, we're looking for any "bugs" in the level design. This is a process known as QA, and involves essentially checking if the software is behaving as expected. Although both QA and playtesting are forms of testing, and we will be doing them both here, it is important to understand the distinction between them. We will be covering this in a later week, so stay tuned!
 
-Make some notes on what needs to be changed to make your game playable. You could also consider things like what the player is able to see at any time, how confusing the level is, etc.
+For your QA, play your level and answer the following questions:
+* Are there jumps that can't be made? 
+* Are there any opportunties for the player to get stuck and unable to progress?
+* Can the player always see what they need to see? Does the camera ever "cut off" important information?
+* Are there any other mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways?
+
+Make some notes on what needs to be changed to make your game playable.
 
 ### First iteration
 Depending on how buggy your game is, this might take longer. That's ok! When giving the game to external playtesters, you don't want them to come back and tell you they couldn't play your game because of a bug.
 
-## External playtest 1 (30 min)
-Questions about the experience of playing the game are hard to answer on our own, so it is time for some external playtesting!
+## Playtest 1: Experience Goals (30 min)
+Questions about the experience of playing the game are hard to answer on our own, so it is time for some playtesting! Unlike QA, we are no longer looking for bugs, but instead trying to understand if our game is acheiving the kind of design goals we have. In short: is it "fun"?
 
 ### Experience Goals and Design Questions
 Before passing the game onto another player, you'll need some idea of the design questions you are trying to answer. Start thinking about higher-level experience goals. While we'll dive into this in later weeks, consider:
@@ -72,7 +78,7 @@ It's ok to revisit your experience goals at this stage. Iteration often involves
 
 Once you are happy with what you've made, make sure you save and push your repo. Add a meaningful commit message regarding how you've adapted the feedback given. If you're recording your notes inside your repo as we recommend, make sure you push them as well.
 
-## External playtest 2: Target Audience (30 mn)
+## Playtest 2: Target Audience (30 mn)
 ### Audience persona
 In your next iteration, try narrowing things down to the qualities of your target audience. Start crafting a persona for your target audience based on your experience goals. Remember, "18-25 year old males" isn't a useful target audience, as it says nothing of someone's attributes or desires. Instead, write a short blurb reflecting one of your ideal players. See the lecture notes for examples of what these blurbs should look like. Remember, your ideal player might be nothing like you!
 
